@@ -17,5 +17,5 @@
         setTimeout(renderMath, 1000);
     }
     renderMath();
-    MathJax.Hub.Rerender();
+    MathJax.Hub.Reprocess();
 })();
